@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'MONT-Light';
+    src: url('./assets/Fuentes/Mont-ExtraLightDEMO.otf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MONT-Bold';
+    src: url('./assets/Fuentes/Mont-HeavyDEMO.otf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Confortaa-Light';
+    src: url('./assets/Fuentes/Comfortaa-Light.ttf') format('Woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Confortaa-Regular';
+    src: url('./assets/Fuentes/Comfortaa-Regular.ttf') format('Woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Confortaa-Bold';
+    src: url('./assets/Fuentes/Comfortaa-Bold.ttf') format('Woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
